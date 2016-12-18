@@ -13,12 +13,13 @@ def False():
 
 
 def Func():
+    i = i * 10
     return
 
 
-InDim[22,34,23,12,64]
+InDim = [22,34,23,12,64]
 
-OutDim[]
+OutDim = []
 
 for i in InDim :
     if i = True():
